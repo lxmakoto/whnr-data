@@ -126,3 +126,15 @@ Los scripts que generan todo lo anterior, en orden de ejecución.
 para este problema.
 
 Dependencias: `numpy`, `pandas`, `biopython`, `pyhmmer`, `matplotlib`.
+
+---
+
+## Licencia
+
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+(CC BY 4.0), igual que el depósito de Zenodo. Cubre tanto los datos como los
+scripts: puedes usarlos, modificarlos y redistribuirlos, también con fines
+comerciales, citando la fuente.
+
+Las secuencias de partida proceden de AgnostosDB, UniParc, ENA/GenBank y el PDB,
+cada una con sus propios términos de uso.
