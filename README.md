@@ -1,10 +1,14 @@
 # WhnR — datos de secuencia, alineamientos y análisis de selección
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23439194.svg)](https://doi.org/10.5281/zenodo.23439194)
+
 Datos que acompañan al manuscrito sobre **WhnR** (`whnR`, antes
 `cl33274978` en AgnostosDB), una fusión winged-helix / nucleotidiltransferasa
 tipo pol-β conservada en el superfilo Patescibacteria.
 
 Autor: Oskar Kruk · `oscar.kruk@autonoma.cat`
+
+Cítese como: Kruk, O. *Datos de WhnR: secuencias codificantes, alineamientos y análisis de selección*. Zenodo. [doi:10.5281/zenodo.23439194](https://doi.org/10.5281/zenodo.23439194)
 
 ---
 

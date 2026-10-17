@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así."
+title: "Datos de WhnR: secuencias codificantes, alineamientos y análisis de selección"
+abstract: >-
+  Datos que acompañan al manuscrito sobre WhnR (gen whnR, antes cl33274978 en
+  AgnostosDB), una fusión winged-helix / nucleotidiltransferasa tipo pol-beta
+  conservada en el superfilo Patescibacteria. Incluye 716 secuencias
+  codificantes recuperadas vía UniParc y verificadas por traducción, el
+  alineamiento de la familia y un control emparejado de una
+  nucleotidiltransferasa activa, entradas y salidas de Datamonkey (FEL, FUBAR y
+  MEME en dos clados), tablas por sitio y los scripts de generación.
+type: dataset
+authors:
+  - family-names: Kruk
+    given-names: Oskar
+    email: oscar.kruk@autonoma.cat
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23439194
+    description: DOI de concepto, apunta siempre a la última versión
+repository-code: "https://github.com/lxmakoto/whnr-data"
+keywords:
+  - Patescibacteria
+  - CPR
+  - nucleotidiltransferasa
+  - pseudoenzima
+  - selección purificadora
+  - materia oscura proteica
+version: "1.0"
+date-released: "2026-10-17"
